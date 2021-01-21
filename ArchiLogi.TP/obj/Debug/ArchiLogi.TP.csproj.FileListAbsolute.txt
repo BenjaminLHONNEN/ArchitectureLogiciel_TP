@@ -1,0 +1,7 @@
+C:\Users\benja\source\repos\ArchiLogi.TP\ArchiLogi.TP\bin\Debug\ArchiLogi.TP.exe.config
+C:\Users\benja\source\repos\ArchiLogi.TP\ArchiLogi.TP\bin\Debug\ArchiLogi.TP.exe
+C:\Users\benja\source\repos\ArchiLogi.TP\ArchiLogi.TP\bin\Debug\ArchiLogi.TP.pdb
+C:\Users\benja\source\repos\ArchiLogi.TP\ArchiLogi.TP\obj\Debug\ArchiLogi.TP.csprojAssemblyReference.cache
+C:\Users\benja\source\repos\ArchiLogi.TP\ArchiLogi.TP\obj\Debug\ArchiLogi.TP.csproj.CoreCompileInputs.cache
+C:\Users\benja\source\repos\ArchiLogi.TP\ArchiLogi.TP\obj\Debug\ArchiLogi.TP.exe
+C:\Users\benja\source\repos\ArchiLogi.TP\ArchiLogi.TP\obj\Debug\ArchiLogi.TP.pdb
