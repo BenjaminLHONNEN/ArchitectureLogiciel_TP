@@ -43,17 +43,26 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adapter\AdapterProgram.cs" />
     <Compile Include="Adapter\DotEnvV1Parser.cs" />
     <Compile Include="Adapter\DotEnvV2.cs" />
     <Compile Include="Adapter\DotEnvV1.cs" />
     <Compile Include="Adapter\DotEnvV2Parser.cs" />
     <Compile Include="Adapter\IDotEnvAdapter.cs" />
+    <Compile Include="Factory\AbstractProduct.cs" />
+    <Compile Include="Factory\Clothe.cs" />
+    <Compile Include="Factory\ClotheProduct.cs" />
+    <Compile Include="Factory\FactoryProgram.cs" />
+    <Compile Include="Factory\ProductFactory.cs" />
+    <Compile Include="Factory\Shoes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="Singleton\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
