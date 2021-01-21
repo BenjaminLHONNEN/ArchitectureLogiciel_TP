@@ -13,7 +13,7 @@ namespace ArchiLogi.TP
         static void Main(string[] args)
         {
             AdapterProgram.AdapterMain(args);
-            FactoryProgram.FactoryMain(args);
+            // FactoryProgram.FactoryMain(args);
 
             Console.ReadLine();
         }
