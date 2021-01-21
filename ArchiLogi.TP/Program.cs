@@ -5,6 +5,10 @@ namespace ArchiLogi.TP
 {
     class Program
     {
+        /// <summary>
+        /// Entré du programme.
+        /// </summary>
+        /// <param name="args">Arguments.</param>
         static void Main(string[] args)
         {
             DotEnvV1 dotEnvV1 = new DotEnvV1();
@@ -22,6 +26,10 @@ namespace ArchiLogi.TP
             Console.ReadLine();
         }
 
+        /// <summary>
+        /// Affiche les information de l'adapter.
+        /// </summary>
+        /// <param name="adapter">Adapter.</param>
         static void DisplayEnvInfo(IDotEnvAdapter adapter)
         {
             Console.WriteLine(adapter.Get("Host"));
